@@ -1,4 +1,4 @@
-package com.reactnativestarterkit;
+package com.fancy;
 
 import android.content.Intent;
 
